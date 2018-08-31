@@ -1,0 +1,49 @@
+D .
+D end
+R 6B50F0C5 Endpagescore.png
+R CC328FD8 Newrecord.png
+D game
+R 688F777A Friendsrankings.png
+R C8324FA4 Individualrankings.png
+R 58B0378F t_bg.png
+R FBE182F7 Title.png
+D indexFrame
+P D6E76A64 res_01.png
+D loading
+R 81469F14 loading.png
+P A28E394C loadingbg.png
+D plugins
+R 38957181 beyond.png
+R 2F8AA1CB getmorerevivelife.png
+R DF55EC08 trytorevive.png
+D rank
+P 938D16CC defaultimg.png
+R 9D02DAF4 rank_list.png
+R A136BFF5 rank_score.png
+D res
+D res/atlas
+R 15877FEF end.atlas
+P F8A89197 end.png
+R FBA03CE5 game.atlas
+R D865F474 game.png
+R C974A569 plugins.atlas
+R A0895A6A plugins.png
+R 863A236D rank.atlas
+R E97E76BD rank.png
+D res/font
+R 45C0ADD2 04B_03B_.ttf
+D res/mesh
+R C77A57D3 ball.lm
+R CA92FDEF speedUp.lm
+D res/sharingImages
+R CEFF7577 sharing.png
+D res/sound
+R 11D17D96 bgm.mp3
+R 521E2D8E lose.mp3
+R F6BF29B7 start.mp3
+D res/textures
+P F2853700 box.png
+P 3255C8BD jump.png
+P B93DA130 player.png
+P 9C99F29A shadowc.png
+P 3B8E4AD9 speedup.png
